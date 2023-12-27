@@ -1,0 +1,11 @@
+import React from 'react'
+
+const Home = () => {
+  return (
+    <div>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt dicta aut, hic obcaecati quia reiciendis velit ipsam accusantium adipisci, aperiam dignissimos voluptatem sequi quisquam cumque eveniet. Nihil sit quod doloremque culpa debitis? Eum quos quibusdam libero cumque ipsum, ex veritatis quae expedita repellendus autem facere in delectus nulla impedit est, quis unde sunt esse? Tempora quidem alias temporibus necessitatibus, cumque fuga aliquid quibusdam. Recusandae, illum accusantium, doloribus nemo alias possimus dignissimos saepe sunt amet modi maiores quis quo molestias eos earum delectus et officiis tempora facere mollitia sit. Ex dolorem omnis cupiditate numquam veritatis ea mollitia sed corrupti delectus in, possimus aliquid deserunt, voluptate tempora molestiae voluptates incidunt iste pariatur quae minus! Maiores velit laudantium soluta voluptas numquam adipisci expedita repellat reprehenderit sapiente quaerat minima, aliquam alias eveniet itaque! Voluptatum vitae ipsam atque non perspiciatis deleniti id provident doloribus eos ipsa! Aperiam, error vitae repellat excepturi sapiente illum, a placeat aliquam dolores repudiandae, facere vero? Magni, amet! Quam molestiae quasi iusto? Voluptatibus repellat quisquam repellendus accusamus corrupti pariatur quam aspernatur illum ea porro optio cupiditate a cumque deserunt eos laboriosam aperiam amet reprehenderit assumenda consequatur molestiae, minus, rerum nobis dignissimos! Qui sunt quibusdam earum minus porro recusandae, a quae dignissimos voluptatum odio esse libero animi quos similique. Nobis veritatis deserunt ex dolor facilis! Mollitia, sint ex? Totam saepe facilis eius nisi pariatur placeat facere dolore sint culpa! Impedit optio eveniet ut aut dignissimos id iste rerum. Modi quae dolor aut, sunt voluptatibus quidem fuga provident perspiciatis maxime aspernatur laboriosam aperiam ipsam odio autem dolorum omnis minima nam! Beatae aperiam minima corrupti officia optio perspiciatis fuga, cumque fugit, alias sint maiores libero placeat aut exercitationem! Voluptatem enim, illo perspiciatis tempora expedita asperiores delectus iusto doloremque, ex culpa sapiente blanditiis ut fugiat fugit beatae dolorem dolor ab quae. Quas, nobis impedit. Molestias!</p>
+    </div>
+  )
+}
+
+export default Home
